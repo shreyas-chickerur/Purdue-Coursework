@@ -12,3 +12,13 @@ Shreyas Chickerur
 - CODO Semester: Spring 2021 (Semester 2)
 ### Major 3: Data Science
 - CODO Semester: Fall 2020 (Original Major)
+## Courses (CS)
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+## Courses (MA)
+
+## Courses (STAT)
+
+## Courses (All others)
