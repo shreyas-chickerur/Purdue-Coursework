@@ -13,10 +13,10 @@ Shreyas Chickerur
 ### Major 3: Data Science
 - CODO Semester: Fall 2020 (Original Major)
 ## Courses (CS)
-| Course Number | Course Name | Professor | Semester          | Status |
-| -----------   | -----------                                           | --------- | --------          | ------ |
-| 18000         | Problem Solving and Object-Oriented Programming       | Dunsmore  | Fall Fresh (2020)
-| 19100         | Text        |
+| Course Number | Course Name                                    | Professor | Semester  | Status   |
+| -----------   | -----------                                    | --------- | --------  | -------- |
+| 18000         | Problem Solving and Object-Oriented Programming| Dunsmore  | Fall 2020 | Complete |
+| 19100         | Freshman Resources Seminar                     |
 ## Courses (MA)
 
 ## Courses (STAT)
