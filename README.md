@@ -53,3 +53,7 @@ Shreyas Chickerur
 | 51200         | Applied Regression Analysis | *TBD*  | Fall 2023 | Not Complete |
 
 ## Courses (All others)
+| Course ID | Course Name                                    | Professor | Semester  | Status   |
+| -----------   | -----------                                    | --------- | --------  | -------- |
+| SCLA 10100   | Transformative Texts, Critical Thinking And Communication I: Antiquity To Modernity                                    | Bennett | Spring 2021  | -------- |
+| PHIL 20700         | Ethics For Technology, Engineering, And Design | *TBD*  | Fall 2022 | Not Complete |
