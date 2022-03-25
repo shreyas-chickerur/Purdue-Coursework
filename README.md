@@ -1,4 +1,4 @@
-### Computer Science, Data Science, and Applied Statistics Guide/Timeline
+# Computer Science, Data Science, and Applied Statistics Guide/Timeline
 ## Overview
-# Name
+### Name
 Shreyas Chickerur
