@@ -36,9 +36,11 @@ Shreyas Chickerur
 | 47100         | Introduction to Artificial Intelligence        | *TBD*   | Fall 2023   | Not Complete |
 | 49000 LSDA    | Large Scale Data Analytics                     | *TBD*   | Fall 2023   | Not Complete |
 
-
 ## Courses (MA)
-
+| Course Number | Course Name | Professor | Semester  | Status   |
+| -----------   | ----------- | --------- | --------  | -------- |
+| 26100         | Calculus III | Chen  | Fall 2020 | Complete |
+| 35100         | Linear Algebra | Wei  | Fall 2020 | Complete |
 ## Courses (STAT)
 
 ## Courses (All others)
