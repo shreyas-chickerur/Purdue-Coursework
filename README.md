@@ -16,14 +16,27 @@ Shreyas Chickerur
 | Course Number | Course Name                                    | Professor | Semester  | Status   |
 | -----------   | -----------                                    | --------- | --------  | -------- |
 | 18000         | Problem Solving and Object-Oriented Programming| Dunsmore  | Fall 2020 | Complete |
-| 18200         | Foundations of Computer Science                | Drineas   | Spring 2020 | Complete |
+| 18200         | Foundations of Computer Science                | Drineas   | Spring 2021 | Complete |
 | 19100         | Freshman Resources Seminar                     | N/A       | Fall 2020 | Complete |
 | 19300         | Tools Seminar                                  | N/A       | Fall 2020 | Complete |
-| 24000         | Programming in C                               | Li        | Spring 2020 | Complete |
+| 24000         | Programming in C                               | Li        | Spring 2021 | Complete |
 | 24200         | Introduction to Data Science                   | *Not sure*| Fall 2021 | Complete |
 | 25000         | Computer Architecture                          | Adams     | Fall 2021 | Complete |
 | 25100         | Data Structures and Algorithms                 | Bejarano  | Fall 2021 | Complete |
+| 25200         | Systems Programming                            | Gustavo   | Spring 2022 | Not Complete |
+| 34800         | Information Systems                            | *TBD*   | Spring 2023 | Not Complete |
+| 35400         | Operating Systems                              | *TBD*   | Fall 2023   | Not Complete |
+| 35500         | Introduction to Cryptography                   | *TBD*   | Fall 2023   | Not Complete |
+| 37300         | Data Mining and Machine Learning               | *TBD*     | Fall 2022 | Not Complete |
 | 38003         | Python Programming                             | Tahboub   | Fall 2020 | Complete |
+| 38100         | Introduction to the Analysis of Algorithms     | *TBD*   | Spring 2023 | Not Complete |
+| 40700         | Software Engineering Senior Project            | *TBD*   | Spring 2023 | Not Complete |
+| 40800         | Software Testing                               | *TBD*   | Spring 2023 | Not Complete |
+| 44800         | Introduction to Relational Databases           | *TBD*   | Fall 2023   | Not Complete |
+| 47100         | Introduction to Artificial Intelligence        | *TBD*   | Fall 2023   | Not Complete |
+| 49000 LSDA    | Large Scale Data Analytics                     | *TBD*   | Fall 2023   | Not Complete |
+
+
 ## Courses (MA)
 
 ## Courses (STAT)
