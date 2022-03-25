@@ -16,7 +16,9 @@ Shreyas Chickerur
 | Course Number | Course Name                                    | Professor | Semester  | Status   |
 | -----------   | -----------                                    | --------- | --------  | -------- |
 | 18000         | Problem Solving and Object-Oriented Programming| Dunsmore  | Fall 2020 | Complete |
-| 19100         | Freshman Resources Seminar                     |
+| 18200         | Foundations of Computer Science                | Drineas   | Fall 2020 | Complete |
+| 19100         | Freshman Resources Seminar                     | N/A       | Fall 2020 | Complete |
+| 19300         | Tools Seminar                                  | N/A       | Fall 2020 | Complete |
 ## Courses (MA)
 
 ## Courses (STAT)
