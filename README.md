@@ -42,5 +42,13 @@ Shreyas Chickerur
 | 26100         | Calculus III | Chen  | Fall 2020 | Complete |
 | 35100         | Linear Algebra | Wei  | Fall 2020 | Complete |
 ## Courses (STAT)
+| Course Number | Course Name                                    | Professor | Semester  | Status   |
+| -----------   | -----------                                    | --------- | --------  | -------- |
+| 19000         | Data Mine Seminar | Ward  | Fall 2020, Spring 2021 | Complete |
+| 19000         | Corporate Partners | Ward  | Fall 2020, Spring 2021 | Complete |
+| 41600         | Probability | Wang  | Spring 2022 | Not Complete |
+| 41700         | Statistical Theory | *TBD*  | Fall 2022 | Not Complete |
+| 42000         | Introduction to Time Series | *TBD*  | Fall 2022 | Not Complete |
+| 51200         | Applied Regression Analysis | *TBD*  | Fall 2023 | Not Complete |
 
 ## Courses (All others)
