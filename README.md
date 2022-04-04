@@ -6,7 +6,7 @@ Shreyas Chickerur
 - CODO Semester: Spring 2022 (Semester 4)
 ### Major 2: Computer Science
 - Tracks:
-    - Databases
+    - `Databases`
     - Machine Intelligence
     - Databases
 - CODO Semester: Spring 2021 (Semester 2)
