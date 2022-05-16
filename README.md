@@ -23,7 +23,7 @@
 | 24200         | Introduction to Data Science                   | *Not sure*| Fall 2021 | Complete |
 | 25000         | Computer Architecture                          | Adams     | Fall 2021 | Complete |
 | 25100         | Data Structures and Algorithms                 | Bejarano  | Fall 2021 | Complete |
-| 25200         | Systems Programming                            | Gustavo   | Spring 2022 | Not Complete |
+| 25200         | Systems Programming                            | Gustavo   | Spring 2022 | Complete |
 | 34800         | Information Systems                            | *TBD*   | Spring 2023 | Not Complete |
 | 35400         | Operating Systems                              | *TBD*   | Fall 2023   | Not Complete |
 | 35500         | Introduction to Cryptography                   | *TBD*   | Fall 2023   | Not Complete |
