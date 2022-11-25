@@ -59,3 +59,49 @@
 | SCLA 10100   | Transformative Texts, Critical Thinking And Communication I: Antiquity To Modernity                                    | Bennett | Spring 2021  | Complete |
 | COM 21700         | Science, Writing, and Presentation | *Not sure*  | Summer 2021 | Not Complete |
 | PHIL 20700         | Ethics For Technology, Engineering, And Design | *TBD*  | Fall 2022 | Not Complete |
+
+## Important Projects and Tools for CS Courses
+1. CS 18000
+    - Java
+    - Multithreading
+    - Server-Client Messaging Platform
+        - JFrame
+        - Object Serialiation
+2. CS 19300
+    - LaTeX
+    - Git
+    - Unix
+3. CS 24000
+    - HTML File Tag Parser
+4. CS 25100
+    - Java
+    - BST
+    - 2-3 Trees
+    - Red-Black Trees
+    - Graphs
+    - Dijikstra's Algorithm
+    - Bellman Ford Algorithm
+    - Quick Union
+    - Minimum Spanning Trees
+    - Prim's/Kruskal's Algorithms
+    - Directed Acyclic Graphs
+    - Heaps
+    - Linked List Optimization
+5. CS 25200
+    - C/C++
+    - Creating our own dynamic memory allocator
+    - Creating our own shell
+    - Coding our own client and server via CLI
+6. CS 30700
+    - Flask
+    - AWS Beanstalk
+    - Python
+    - Edamam API
+    - HERE API
+    - Google Maps API
+    - PostgreSQL
+7. CS 37300
+    - Coding our own CNN
+    - Coding a Bayesian Classifier
+    - Coding a Perceptron
+    - Coding a Maximum Likelihood Estimator
